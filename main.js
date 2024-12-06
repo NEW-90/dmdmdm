@@ -1,7 +1,1 @@
-function a(){
-    let i = "Hello World!";
-
-    function b(){
-        console.log(i);
-    }
-}
+console.log("Hello World")
